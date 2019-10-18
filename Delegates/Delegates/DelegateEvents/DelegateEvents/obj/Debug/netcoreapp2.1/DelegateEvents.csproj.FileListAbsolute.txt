@@ -1,0 +1,11 @@
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp2.1\DelegateEvents.deps.json
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp2.1\DelegateEvents.runtimeconfig.json
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp2.1\DelegateEvents.runtimeconfig.dev.json
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp2.1\DelegateEvents.dll
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp2.1\DelegateEvents.pdb
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp2.1\DelegateEvents.csprojAssemblyReference.cache
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp2.1\DelegateEvents.csproj.CoreCompileInputs.cache
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp2.1\DelegateEvents.AssemblyInfoInputs.cache
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp2.1\DelegateEvents.AssemblyInfo.cs
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp2.1\DelegateEvents.dll
+C:\Users\s1906176\source\repos\Delegates\Delegates\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp2.1\DelegateEvents.pdb

@@ -1,0 +1,15 @@
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\bin\Debug\GridEditor.exe.config
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\bin\Debug\GridEditor.exe
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\bin\Debug\GridEditor.pdb
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\MainWindow.g.cs
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\App.g.cs
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor_MarkupCompile.cache
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor_MarkupCompile.lref
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\MainWindow.baml
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.g.resources
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.Properties.Resources.resources
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.csproj.GenerateResource.cache
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.csproj.CoreCompileInputs.cache
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.exe
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.pdb
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.csprojAssemblyReference.cache

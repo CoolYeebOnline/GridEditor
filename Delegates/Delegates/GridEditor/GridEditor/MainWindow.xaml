@@ -11,6 +11,7 @@
             <MenuItem Header="File">
                 <MenuItem Header="New" Click="HandleNew"/>
                 <MenuItem Header="Close" Click="HandleClose"/>
+                <MenuItem Header="Save" Click="HandleSave"/>
             </MenuItem>
         </Menu>
         <ToolBarTray DockPanel.Dock="Top">

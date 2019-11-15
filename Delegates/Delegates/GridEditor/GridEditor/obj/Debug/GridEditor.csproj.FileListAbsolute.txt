@@ -13,3 +13,6 @@ N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Deb
 N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.exe
 N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.pdb
 N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.csprojAssemblyReference.cache
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\bin\Debug\Newtonsoft.Json.dll
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\bin\Debug\Newtonsoft.Json.xml
+N:\Documents\GitHub\GridEditor\Delegates\Delegates\GridEditor\GridEditor\obj\Debug\GridEditor.csproj.CopyComplete

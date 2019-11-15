@@ -1,5 +1,9 @@
-﻿using System;
+﻿
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -94,6 +98,23 @@ namespace GridEditor
         private void HandleErase(object sender, RoutedEventArgs e)
         {
             selectedTool = Tool.Erase;
+        }
+       
+        private void HandleSave(object sender, RoutedEventArgs e)
+        {
+            JsonSerializer serializer = new JsonSerializer();
+            serializer.Converters.Add(new JavaScriptDateTimeConverter());
+            serializer.NullValueHandling = NullValueHandling.Ignore;
+
+            using (StreamWriter sw = new StreamWriter(@"E:\grid\grid.json"))
+            using (JsonWriter writer = new JsonTextWriter(sw))
+            {
+                
+                MessageBox.Show("Saving...");
+                
+            }
+
+
         }
 
         public enum Tool
